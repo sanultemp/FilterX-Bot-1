@@ -13,7 +13,9 @@ See <i>/help</i> for more details. 👨‍💻</b>
 
     HELP_MSG = """
 <i>Add me as admin in your group and start filtering like a pro 🙂</i>
-<b>FilterX  Commands;</b>
+
+<u>𝐅𝐢𝐥𝐭𝐞𝐫𝐗  𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬;</u>
+
 /start - Check if I'm alive!
 /help - Command help
 /about - Something about me!
@@ -21,7 +23,9 @@ See <i>/help</i> for more details. 👨‍💻</b>
 <code>/del name</code>  -  Delete filter
 <code>/delall</code>  -  Delete entire filters (Group Owner Only!)
 <code>/viewfilters</code>  -  List all filters in chat
-<b>Connection Commands;</b>
+
+<u>𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬;</u>
+
 <code>/connect groupid</code>  -  Connect your group to my PM. You can also simply use,
 <code>/connect</code> in groups.
 <code>/connections</code>  -  Manage your connections.
