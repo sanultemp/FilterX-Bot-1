@@ -161,19 +161,13 @@ async def bot_status(client,message):
                 leftperc = math.floor(quota_left / total_quota * 100)
 
                 quota_details = f"""
-
-**Heroku Account Status**
-
+𝐇𝐞𝐫𝐨𝐤𝐮 𝐀𝐜𝐜𝐨𝐮𝐧𝐭 𝐒𝐭𝐚𝐭𝐮𝐬
 > __You have **{total} hours** of free dyno quota available each month.__
-
 > __Dyno hours used this month__ ;
         - **{used} hours**  ( {usedperc}% )
-
 > __Dyno hours remaining this month__ ;
         - **{hours} hours**  ( {leftperc}% )
         - **Approximately {days} days!**
-
-
 """
             else:
                 quota_details = ""
@@ -191,14 +185,14 @@ async def bot_status(client,message):
         used = humanbytes(u)
         free = humanbytes(f)
 
-        disk = "\n**Disk Details**\n\n" \
+        disk = "\n𝐃𝐢𝐬𝐤 𝐃𝐞𝐭𝐚𝐢𝐥𝐬\n\n" \
             f"> USED  :  {used} / {total}\n" \
             f"> FREE  :  {free}\n\n"
     except:
         disk = ""
 
     await message.reply_text(
-        "**Current status of your bot!**\n\n"
+        "𝐂𝐮𝐫𝐫𝐞𝐧𝐭 𝐬𝐭𝐚𝐭𝐮𝐬 𝐨𝐟 𝐲𝐨𝐮𝐫 𝐛𝐨𝐭!\n\n"
         f"> __**{filters}** filters across **{chats}** chats__\n\n"
         f"{userstats}"
         f"> __BOT Uptime__ : **{uptime}**\n\n"
@@ -243,12 +237,12 @@ async def help(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("How to Deploy?", url="https://youtu.be/hkmc3e7U7R4"),
+                    InlineKeyboardButton("PSALK Movies", url="https://t.me/PSALK"),
                     InlineKeyboardButton("About Me", callback_data="about_data")
                 ],
                 [
-                    InlineKeyboardButton("BOT Channel", url="https://t.me/TroJanzHEX"),
-                    InlineKeyboardButton("Support Group", url="https://t.me/TroJanzSupport")
+                    InlineKeyboardButton("BOT Channel", url="https://t.me/BetaBots"),
+                    InlineKeyboardButton("Support Group", url="https://t.me/BetaBotsSupport")
                 ]
             ]
         ),
@@ -265,7 +259,7 @@ async def about(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/TroJanzHEX/Unlimited-Filter-Bot")
+                        "BΣƬΛ 𝗕𝗼𝘁𝘀", url="https://t.me/BetaBots")
                 ],
                 [
                     InlineKeyboardButton("BACK", callback_data="help_data"),
