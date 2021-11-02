@@ -2,7 +2,7 @@ class Script(object):
 
     START_MSG = """<b>Hi {},
 
-I'm 𝙁𝙞𝙡𝙩𝙚𝙧𝙓 bot by BΣƬΛ 𝗕𝗼𝘁𝘀 with different abilities! 🔥
+I'm 𝙁𝙞𝙡𝙩𝙚𝙧𝙓 by BΣƬΛ 𝗕𝗼𝘁𝘀 with different abilities! 🔥
 
 There is no any limitations for my filtering capacity. 🙃
 
