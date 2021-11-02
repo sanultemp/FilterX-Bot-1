@@ -46,5 +46,4 @@ See <i>/help</i> for more details. 👨‍💻</b>
 🔘<b>Creater :</b> @BetaBots    
 🔘<b>Language :</b> <code>Python3</code>
 🔘<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
-➤ <p><a href="https://t.me/BetaBots">BΣƬΛ 𝗕𝗼𝘁𝘀</a></p>
 """
