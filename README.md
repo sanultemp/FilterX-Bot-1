@@ -9,12 +9,12 @@
 </p>
 <p align="center">
   <a href="https://github.com/psalk/FilterX-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/TroJanzHEX/Unlimited-Filter-Bot?style=social">
+    <img src="https://img.shields.io/github/stars/psalk/FilterX-Bot?style=social">
 
   </a>
   
   <a href="https://github.com/psalk/FilterX-Bot/fork">
-    <img src="https://img.shields.io/github/forks/TroJanzHEX/Unlimited-Filter-Bot?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/psalk/FilterX-Bot?label=Fork&style=social">
 
   </a>  
 </p>
