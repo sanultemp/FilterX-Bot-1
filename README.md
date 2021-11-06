@@ -19,9 +19,9 @@
   </a>  
 </p>
 
-[![TroJanz](https://img.shields.io/badge/BetaBots-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/BetaBots)  
+[![BetaBots](https://img.shields.io/badge/BetaBots-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/BetaBots)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Support-red?style=flat&logo=telegram)](https://telegram.dog/TroJanzSupport)  [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)  
+[![BetaBots](https://img.shields.io/badge/BetaBots-Support-red?style=flat&logo=telegram)](https://t.me/BetaBotsSupport)  [![BetaBots](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](website-link)  
 ㅤㅤㅤㅤㅤㅤㅤ  
 [![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/TroJanzHEX/Unlimited-Filter-Bot/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TroJanzHEX/Unlimited-Filter-Bot)
 
