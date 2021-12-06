@@ -2,12 +2,12 @@ class Script(object):
 
     START_MSG = """<b>Hi {},
 
-I'm 𝙁𝙞𝙡𝙩𝙚𝙧𝙓 bot by BΣƬΛ 𝗕𝗼𝘁𝘀 with different abilities! 🔥
+I'm 𝙁𝙞𝙡𝙩𝙚𝙧𝙓 bot by 𝓢𝓽𝓪𝓻𝓚𝓲𝓷𝓰 with different abilities! 🔥
 
 There is no any limitations for my filtering capacity. 🙃
 
 See <i>/help</i> for more details. 👨‍💻</b>
-➤ <p><a href="https://t.me/BetaBots">BΣƬΛ 𝗕𝗼𝘁𝘀</a></p>
+➤ <p><a href="https://t.me/IamStarKing">𝓢𝓽𝓪𝓻𝓚𝓲𝓷𝓰</a></p>
 """
 
 
@@ -38,12 +38,12 @@ See <i>/help</i> for more details. 👨‍💻</b>
 /status  -  Shows current status of your bot (Auth User Only)
 /id  -  Shows ID information
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
-➤ <p><a href="https://t.me/BetaBots">BΣƬΛ 𝗕𝗼𝘁𝘀</a></p>
+➤ <p><a href="https://t.me/BetaBots">𝓢𝓽𝓪𝓻𝓚𝓲𝓷𝓰</a></p>
 """
 
 
     ABOUT_MSG = """🔘<b>My Name : 𝙁𝙞𝙡𝙩𝙚𝙧𝙓</b>
-🔘<b>Creater :</b> @BetaBots    
+🔘<b>Creater :</b> @IamStarKing   
 🔘<b>Language :</b> <code>Python3</code>
 🔘<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 """
